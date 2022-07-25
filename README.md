@@ -1,1 +1,1 @@
-# hades
+# Eurydice
